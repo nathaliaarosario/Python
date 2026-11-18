@@ -81,7 +81,7 @@ python email_janela.py
 
 **Nathalia Alves Rosário**
 
-Estudante de Tecnologia da Informação, com interesse em desenvolvimento de software, programação e construção de soluções tecnológicas.
+Estudante de Engenharia de Software, com interesse em desenvolvimento de software, programação e construção de soluções tecnológicas.
 
 [![GitHub](https://img.shields.io/badge/GitHub-nathaliaarosario-181717?style=for-the-badge&logo=github)](https://github.com/nathaliaarosario)
 
